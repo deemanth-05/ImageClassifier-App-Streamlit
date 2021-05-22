@@ -3,3 +3,4 @@ pandas
 streamlit
 sklearn
 scikit-image
+model
