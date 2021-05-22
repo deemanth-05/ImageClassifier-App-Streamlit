@@ -3,7 +3,7 @@ import numpy as np
 from skimage.io import imread
 from skimage.transform import resize
 import pickle
-from PIL import Image
+from PIL import Image 
 st.set_option('deprecation.showfileUploaderEncoding', False)
 st.title('Image Classifer')
 st.header('Colour Classification')
